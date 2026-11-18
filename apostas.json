@@ -1,0 +1,10 @@
+[
+    {
+        "cpf": "1111",
+        "valor_apostado": 10.0,
+        "numero_apostado": 1,
+        "numero_sorteado": 4,
+        "resultado": "perdeu",
+        "valor_obtido": 0.0
+    }
+]
